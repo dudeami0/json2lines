@@ -1,6 +1,6 @@
 {
     "name": "json2lines",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Takes a JSON file input and a JSONStream filter and produces a JSONL line-seperated file.",
     "main": "dist/index.js",
     "bin": "dist/index.js",

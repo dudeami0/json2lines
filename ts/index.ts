@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import es from "event-stream";
 import fs from "fs";
 import { parse } from "JSONStream";

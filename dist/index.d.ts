@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /// <reference types="node" />
 import { Readable, Writable } from "stream";
 /**
